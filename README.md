@@ -14,7 +14,7 @@
 
 <br/>
 
----
+------
 
 ## Tools for TerraFirmaGreg-Modern
 
@@ -22,7 +22,7 @@
 
 **TerraFirmaGreg-Tools - Modern** is the backbone behind automated and centrilized files for the TerraFirmaGreg-Modern modpack. Developed mostly in C#, this tools repo is designed to centrilized translations, field guide pages and more.
 
----
+-----
 
 ## Development
 
