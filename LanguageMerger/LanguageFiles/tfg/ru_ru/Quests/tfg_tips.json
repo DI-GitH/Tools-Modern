@@ -669,9 +669,9 @@
     "quests.tfg_tips.greenhouse.subtitle": "Выращивай свои культуры 24/7!",
     "quests.tfg_tips.greenhouse.desc": "&dТеплица&r — сложная многоблочная структура с несколькими уровнями, позволяющая выращивать урожай круглый год ценой снижения продуктивности. Подробности смотрите в &2Полевом руководстве&r!",
 
-    "quests.tfg_tips.greenhouse_automation.title": "Greenhouse Automation",
-    "quests.tfg_tips.greenhouse_automation.subtitle": "By your powers combined...",
-    "quests.tfg_tips.greenhouse_automation.desc": "With the combination of Firmalife's &2Picker&r and &2Sweeper&r, Create's Deployers, and GregTech's Item Collectors, it's possible to completely automate your greenhouse!\n\nPickers will pull mature crops from Hydroponic Planters and Quad Planters when they receive a redstone pulse, while Sweepers will harvest mature crops from the other types in a 3x3 area around it while connected to a redstone signal.\n\nThese machines will produce loose items, but an Item Collector will suck those up in a large area around it.\n\nFrom there, pipe the seeds back into Deployers to plant them in the Planters!",
+    "quests.tfg_tips.greenhouse_automation.title": "Автоматизация теплиц",
+    "quests.tfg_tips.greenhouse_automation.subtitle": "Объединив свои силы...",
+    "quests.tfg_tips.greenhouse_automation.desc": "В сочетании с &2Собиратели&r и &2Подборщиками&r из Firmalife, Автономными активаторами из Create и Сборщиками Предметов из GregTech, можно полностью автоматизировать вашу теплицу!\n\nСобиратели будут выдергивать зрелый урожаи из Гидропонных и Квадратных лотков при получении сигнала красного камня, а подборщики будут собирать зрелый урожай с других типов по области 3x3 вокруг себя при подключении к красному камню.\n\nЭти машины выпускают отдельные предметы, но  Предметов втягивает их в большой области вокруг себя.\n\nДалее направьте семена обратно в автономные активаторы, чтобы посадить их в лотки!",
 
     "quests.tfg_tips.beekeeping.title": "Пчеловодство",
     "quests.tfg_tips.beekeeping.subtitle": "Теперь они такие маленькие...",
